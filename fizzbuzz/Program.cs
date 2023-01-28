@@ -12,7 +12,7 @@ namespace fizzbuzz
             bool isFizzOrBuzz = false;
             string output = "";
 
-            Console.WriteLine("FizzBuzz")
+            Console.WriteLine("FizzBuzz");
 
             for (int i = 0; i < numberLimit; ++i)
             {
